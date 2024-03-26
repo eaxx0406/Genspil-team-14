@@ -1,6 +1,4 @@
-﻿using Genspil14.Gui;
-using Genspil14.Model.Filehandlers;
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 
 namespace Genspil14
 {
@@ -8,8 +6,9 @@ namespace Genspil14
     {
         static void Main(string[] args)
         {
-           
-           //Hej Team 14
+
+            //Hej Team 14
+            Console.WriteLine("Hej Team 14, Velkommen til Genspil!!");
         }
     }
 }
