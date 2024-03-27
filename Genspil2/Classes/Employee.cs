@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Genspil2.Classes
+namespace Genspil14.Classes
 {
     internal class Employee
     {
