@@ -1,0 +1,8 @@
+id, name
+1,Sequence
+2,Ticket to Ride
+3,7 wonders
+4,Alverdens
+5,A la carte
+6,Bad People
+7,Andet

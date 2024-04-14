@@ -1,0 +1,4 @@
+1,På lager
+2,Til reparation
+3,reserveret
+4,hos leverandør

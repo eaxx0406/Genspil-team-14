@@ -1,0 +1,37 @@
+navn,id,genre,min,max,status,pris
+original,62,1,2,12,god stand,100,på lager
+orignal,63,1,2,12,til reparation,0,til reparation
+original,36,1,2,12,Til reparation,0,til reparation
+junior,5,1,2,12,lidt skrammet,70,på lager
+rejsespil,58,1,2,12,god,90,på lager
+rejsespil,4,1,2,12,god,90,på lager
+berlin,73,2,2,5,god,200,på lager
+berlin,49,2,2,5,god,190,på lager
+berlin,43,2,2,5,god,200,på lager
+berlin,29,2,2,5,lidt slidt,150,på lager
+berlin,15,2,2,5,til reparation,0,til reparation
+europa (dansk),30,2,2,5,god,250,på lager
+helte,57,4,2,100,til reparation,0,til reparation
+omg,67,4,2,100,Helt ny,100,på lager
+europe (dansk),33,2,2,5,god,250,på lager
+ghost train,66,2,2,5,Ikke angivet,0,på vej på lager
+japan & italy,61,2,2,5,ok,100,på lager
+architects - dansk,72,3,3,7,ok,180,på lager
+architects - dansk,71,3,3,7,ikke åbnet,300,på lager
+architects - medals,8,3,3,7,skadet på hjørne ellers fin stand,150,på lager
+2nd edition cities - engelsk,75,3,3,7,til reparation,179,til reparation
+architects - dansk,24,3,3,7,ok,200,på lager
+dansk duel - agora,76,3,3,7,ok,99,På lager
+dansk duel - agora,77,3,3,7,ok,89,På lager
+dansk duel - agora,78,3,3,7,Helt ny,155,På lager
+duel - agora - engelsk,79,3,3,7,kan måske reddes,0,til reparation
+popkultur,80,4,2,100,god,200,På lager
+popkultur,81,4,2,100,lettere ridset,129,På lager
+popkultur,82,4,2,100,lettere ridset,119,På lager
+arkitektur,83,4,2,100,Ikke angivet,40,På lager
+arkitektur,84,4,2,100,Ikke angivet,45,På lager
+helte,85,4,2,100,god,0,på lager
+dessert,86,5,2,4,god,60,På lager
+test2,87,7,2,2,ok,0,På lager
+
+test3,88,7,0,0,ok,0,På lager

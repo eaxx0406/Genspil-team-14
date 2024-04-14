@@ -1,0 +1,10 @@
+navn,tlf,e-mail,id
+allan fra opgang,ikke angivet,ikke angivet,11
+mejse johansen,ikke angivet,ikke angivet,12
+cille fra skobutik,ikke angivet,ikke angivet,13
+torstein,ikke angivet,ikke angivet,14
+ea overvad,60826246,ea@0vervad.dk,8
+Daniel Starck,ikke angivet,dast63310@edu.ucl.dk,15
+Per Bauer,ikke angivet,peba63298@edu.ucl.dk,16
+Morten Jensen,ikke angivet,moje62379@edu.ucl.dk,17
+Sherry Oskarsson,ikke angivet,slno63267@edu.ucl.dk,18
